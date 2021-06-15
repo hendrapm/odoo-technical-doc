@@ -1,4 +1,4 @@
-Odoo Kubernetes Book
+Odoo Techinal Doc
 ====================
 
 ## Requirement
